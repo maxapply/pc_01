@@ -1,0 +1,56 @@
+/* 文章 */
+.fo_is {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.fo_is .fo_fl {
+  width: 876px;
+  float: left;
+  padding: 8px;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .listTitle {
+  width: 855px;
+  border-bottom: 1px dotted #989595;
+  height: 30px;
+  line-height: 30px;
+}
+
+.fo_is .fo_fl .listTitle h2 {
+  font-size: 12px;
+  font-weight: 100;
+}
+
+.fo_is .fo_fl .listTitle h2 a {
+  color: #000;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.fo_is .fo_fl .listTitle h2 a:hover {
+  color: #123cb9;
+}
+
+.fo_is .fo_fl .con {
+  width: 860px;
+  padding: 0px 60px;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .con p {
+  font-size: 16px;
+  text-indent: 2em;
+  line-height: 25px;
+}
+
+.fo_is .fo_fl .con li {
+  margin: 20px 0px;
+}
+
+.contImg {
+  float: left;
+  margin-right: 20px;
+  margin-top: 10px;
+}

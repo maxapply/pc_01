@@ -1,0 +1,96 @@
+body {
+  background: #fff;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  background: url(../../images/ystd/pinpai_bg.jpg) no-repeat center;
+  background-size: 100% 100%;
+}
+
+.swiper-container {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  width: 1000px;
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper_Box {
+  width: 1000px;
+  height: 550px;
+  margin-top: 40px;
+  padding: 20px 20px;
+  box-sizing: border-box;
+  background: url(../../images/ystd/00012.png);
+  /* background-color: red;s */
+
+}
+
+/* 左文字 */
+.swiper_Box .swiper_fl {
+  width: 450px;
+  float: left;
+  padding: 10px;
+  box-sizing: border-box;
+  /* background-color: yellow; */
+}
+
+.swiper_Box .swiper_fl h2 {
+  font-size: 22px;
+  line-height: 45px;
+  color: #fff;
+  font-family: 微软雅黑, helvetica, arial, sans-serif;
+}
+
+.swiper_Box .swiper_fl ul {
+  list-style: none;
+}
+
+.swiper_Box .swiper_fl ul li {
+  height: 50px;
+}
+
+.swiper_Box .swiper_fl ul li span {
+  border: 1px solid #cccccc;
+  box-sizing: border-box;
+  padding: 5px 10px;
+  height: 40px;
+  line-height: 50px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-family: 微软雅黑, helvetica, arial, sans-serif;
+  color: #fff;
+}
+
+.swiper_Box .swiper_fl h4 {
+  font-size: 18px;
+  line-height: 45px;
+  color: #fff;
+  font-family: 微软雅黑, helvetica, arial, sans-serif;
+}
+
+.swiper_Box .swiper_fl p {
+  text-indent: 2em;
+  font-size: 16px;
+  line-height: 30px;
+  color: #fff;
+  font-family: 微软雅黑, helvetica, arial, sans-serif;
+}
+
+.swiper_Box .swiper_fr {
+  width: 500px;
+  float: right;
+  position: relative;
+}
+
+.swiper_Box .swiper_fr img {
+  width: 500px;
+  position: absolute;
+  top: -92px;
+}

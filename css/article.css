@@ -1,0 +1,117 @@
+/* 文章 */
+.fo_is {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.fo_is .fo_fl {
+  width: 876px;
+  float: left;
+  padding: 8px;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .listTitle {
+  width: 855px;
+  border-bottom: 1px dotted #989595;
+  height: 30px;
+  line-height: 30px;
+}
+
+.fo_is .fo_fl .listTitle h2 {
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.fo_is .fo_fl .listTitle h2 a {
+  color: #000;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.fo_is .fo_fl .listTitle h2 a:hover {
+  color: #123cb9;
+}
+
+.fo_is .fo_fl .con {
+  width: 860px;
+}
+
+.fo_is .fo_fl .con li {
+  height: 134px;
+  padding: 17px 0;
+  border-bottom: 1px dotted #ddd;
+}
+
+.fo_is .fo_fl .con li .con_Fl {
+  float: left;
+}
+
+.fo_is .fo_fl .con li .con_Fl img {
+  width: 177px;
+  height: 130px;
+  border: none;
+  vertical-align: top;
+  margin-left: 10px;
+}
+
+.fo_is .fo_fl .con li .con_Fr {
+  float: right;
+  width: 72%;
+  font-size: 13px;
+}
+
+.fo_is .fo_fl .con li .con_Fr span {
+  height: 30px;
+  line-height: 35px;
+}
+
+.fo_is .fo_fl .con li .con_Fr span a {
+  font-weight: 700;
+  color: #555;
+}
+
+.fo_is .fo_fl .con li .con_Fr p {
+  text-indent: 2em;
+  color: #999;
+  line-height: 25px;
+}
+
+.fo_is .fo_fl .con li .con_Fr p a {
+  margin-right: 10px;
+  color: #555;
+}
+
+.fo_is .fo_fl .con li .con_Fr a:hover {
+  color: #123cb9;
+}
+
+.fo_is .fo_fl .pageList {
+  height: 40px;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .pageList ul {
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .pageList ul li:nth-child(9) {
+  border: 0;
+}
+
+.fo_is .fo_fl .pageList ul li {
+  float: left;
+  border: 1px solid #ddd;
+  height: 22px;
+  margin-left: 5px;
+}
+
+.fo_is .fo_fl .pageList ul li a {
+  padding: 5px 5px;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.fo_is .fo_fl .pageList ul li .pageInfo {
+  font-size: 14px;
+}

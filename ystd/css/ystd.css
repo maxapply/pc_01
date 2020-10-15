@@ -1,0 +1,76 @@
+.fo_fl {
+  width: 860px;
+  float: left;
+  background-color: #fff;
+  padding: 0px 10px;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .listTitle {
+  border-bottom: 1px dotted #989595;
+  height: 30px;
+  line-height: 30px;
+}
+
+.fo_is .fo_fl .listTitle h2 {
+  font-size: 14px;
+  font-weight: 100;
+  /* margin-left: 5px; */
+}
+
+.fo_is .fo_fl .listTitle h2 a {
+  font-size: 14px;
+  color: #000;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.fo_is .fo_fl .listTitle h2 a:hover {
+  color: #005aab;
+}
+
+
+
+
+
+
+
+
+
+
+
+.zixuna {
+  background: #005aab;
+  color: #fff;
+  display: block;
+  float: left;
+  font-size: 16px;
+  height: 30px;
+  line-height: 30px;
+  margin-right: 25px;
+  text-align: center;
+  text-decoration: none;
+  width: 105px;
+  margin-left: 240px;
+}
+
+.zixuna a {
+  color: #fff;
+}
+
+.zixunb {
+  background: #f90;
+  color: #fff;
+  display: block;
+  float: left;
+  font-size: 16px;
+  height: 30px;
+  line-height: 30px;
+  margin-right: 25px;
+  text-align: center;
+  text-decoration: none;
+  width: 105px;
+}
+
+.zixunb a {
+  color: #fff;
+}

@@ -1,0 +1,130 @@
+body,
+button,
+input,
+select,
+textarea {
+  font: 14px/1.5 Microsoft Yahei, Tahoma, Arial, sans-serif;
+}
+
+.pubW {
+  width: 1200px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+
+.case {
+  color: #272727;
+  margin: 15px auto;
+  overflow: hidden;
+  text-align: center;
+}
+
+
+.case h2 {
+  color: #272727;
+  font-size: 16px;
+  font-weight: normal;
+  padding-bottom: 8px;
+  display: block;
+  border-bottom: 2px solid #999;
+  height: 25px;
+}
+
+.case span {
+  color: #bababa;
+  font-size: 14px;
+  text-align: right;
+}
+
+.fr {
+  display: inline;
+  float: right;
+  width: 72%;
+}
+
+.case span a {
+  color: #005aab;
+  text-decoration: none;
+}
+
+.clear {
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+}
+
+.case {
+  color: #272727;
+}
+
+.casedb dl {
+  display: inline;
+  float: left;
+  margin: 20px 9px 0;
+}
+
+.casedb dl dt {
+  border: 1px solid #eaeaea;
+  height: 164px;
+  padding: 1px;
+  width: 342px;
+}
+
+.casedb dl dt img {
+  width: 342px;
+  height: 164px;
+  border: 0;
+  vertical-align: top;
+}
+
+.casedb dl dd {
+  line-height: 35px;
+  text-align: center;
+  width: 346px;
+}
+
+a {
+  color: #333;
+  /* font: 14px/1.5 Microsoft Yahei, Tahoma, Arial, sans-serif; */
+}
+
+.clr {
+  clear: both;
+  height: 0;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.ts:hover {
+  border: 1px solid blue
+}
+
+
+
+
+
+.dede_pages {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  height: 40px;
+}
+
+.dede_pages ul {
+  list-style: none;
+}
+
+.dede_pages ul li {
+  float: left;
+  border: 1px solid #ddd;
+  margin-left: 5px;
+}
+
+.case span {
+  color: #bababa;
+  font-size: 12px;
+  text-align: right;
+}

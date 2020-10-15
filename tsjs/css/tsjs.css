@@ -1,0 +1,106 @@
+.fo_fl {
+  float: left;
+  width: 860px;
+  background-color: #fff;
+  padding: 0px 10px;
+  box-sizing: border-box;
+}
+
+.fo_is .fo_fl .listTitle {
+  border-bottom: 1px dotted #989595;
+  height: 30px;
+  line-height: 30px;
+}
+
+.fo_is .fo_fl .listTitle h2 {
+  font-size: 14px;
+  font-weight: 100;
+}
+
+.fo_is .fo_fl .listTitle h2 a {
+  font-size: 14px;
+  color: #000;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.fo_is .fo_fl .listTitle h2 a:hover {
+  color: #005aab;
+}
+
+.tit {
+  width: 860px;
+  float: left;
+  height: 80px;
+  color: #005aab;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 90px;
+  text-align: center;
+}
+
+.fo_fl .info {
+  width: 860px;
+  float: left;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  font-size: 13px;
+}
+
+.fo_fl p {
+  text-indent: 2em;
+  line-height: 35px;
+  font-size: 16px;
+}
+
+
+.fo_fl .leftBtn {
+  width: 350px;
+  float: left;
+  height: 50px;
+  margin: 20px 0px 0px 270px;
+}
+
+.fo_fl .leftBtn .leftBtnOne {
+  background: #206fb4 none repeat scroll 0 0;
+  border: 1px solid #206fb4;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 10px 40px;
+  text-decoration: none;
+}
+
+.fo_fl .leftBtn .leftBtnTwo {
+  background: #f90 none repeat scroll 0 0;
+  border: 1px solid #f90;
+  margin-left: 30px;
+  color: #fff;
+  border-radius: 4px;
+  font-size: 14px;
+  padding: 10px 40px;
+  text-decoration: none;
+}
+
+.fo_fl .iiwns {
+  border-bottom: 1px dashed #666;
+  margin-bottom: 20px;
+  float: left;
+  margin-top: 20px;
+  font-size: 12px;
+  font-weight: 100;
+}
+
+.fo_fl .iiwns p {
+  font-size: 16px;
+  height: 35px;
+  line-height: 35px;
+  float: left;
+  text-indent: 0em;
+
+}
+
+.fo_fl .iiwns p a {
+  text-decoration: none;
+  outline: none;
+}

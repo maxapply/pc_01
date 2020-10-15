@@ -1,0 +1,148 @@
+body,
+html,
+#allmap {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  font-family: "微软雅黑";
+
+}
+
+.map {
+  min-width: 1200px;
+  width: 100%;
+  height: 500px;
+  position: relative;
+}
+
+.index_zhuanjia_list {
+  width: 400px;
+  height: 500px;
+  overflow: hidden;
+  position: absolute;
+  right: 16%;
+  top: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 3;
+}
+
+.index_zhuanjia_list ul li {
+  border-bottom: 1px solid #535251;
+  width: 400px;
+  height: auto;
+  padding-bottom: 9px;
+  position: relative;
+  padding: 22px 22px;
+  color: #fff;
+  box-sizing: border-box;
+}
+
+.index_zhuanjia_list ul li span {
+  display: inline-block;
+  float: left;
+  width: 25px;
+  height: 25px;
+  background: url(../../images/lylx/positionlion.png) no-repeat center top;
+  margin-right: 50px;
+}
+
+.index_zhuanjia_list ul li h2 {
+  height: 30px;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.index_zhuanjia_list ul li p {
+  height: 20px;
+  line-height: 20px;
+  font-family: "sans-serif", "微软雅黑";
+}
+
+.index_zhuanjia_list ul li:hover {
+  cursor: pointer;
+}
+
+.mdchoose {
+  min-width: 1200px;
+  width: 100%;
+  height: 455px;
+  background-color: #fff;
+  padding-top: 50px;
+}
+
+.mdchoose .mdBox {
+  margin: 0 auto;
+  width: 800px;
+  height: 200px;
+  border: 1px solid #ddd;
+}
+
+.mdchoose .mdBox .flBox {
+  float: left;
+  width: 399px;
+  height: 200px;
+  border-right: 1px solid #ddd;
+  padding: 20px 10px 15px;
+  box-sizing: border-box;
+}
+
+.mdchoose .mdBox .flBox strong {
+  display: block;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+}
+
+.mdchoose .mdBox .flBox p {
+  font-size: 14px;
+  line-height: 2em;
+  text-align: center;
+}
+
+.mdchoose .mdBox .frBox {
+  float: left;
+  width: 399px;
+  height: 200px;
+  padding: 20px 10px 15px;
+  box-sizing: border-box;
+}
+
+.mdchoose .mdBox .frBox strong {
+  display: block;
+  font-weight: bold;
+  font-size: 16px;
+  text-align: center;
+}
+
+.mdchoose .mdBox .frBox p {
+  font-size: 14px;
+  line-height: 2em;
+  text-align: center;
+}
+
+
+.map_h4 {
+  font-size: 16px;
+  color: #715ed3;
+  margin-bottom: 0.533333rem;
+}
+
+.map_p {
+  font-size: 0.533333rem;
+  line-height: 20px;
+}
+
+.map_span {
+  color: red;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.map_span_01 {
+  color: #578bdb;
+  font-weight: 700;
+  font-size: 15px;
+}
